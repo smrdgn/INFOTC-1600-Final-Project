@@ -1,4 +1,4 @@
-# Title: How to run Windows on your Mac using Bootcamp
+# Title: How to run Windows on your Mac device using Boot Camp Assistant
 
 ## Author: Seth Rands
 
