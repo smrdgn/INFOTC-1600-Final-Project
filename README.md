@@ -6,4 +6,4 @@
 
 ### Target Audience: The primary target audience of this tutorial are Mac users looking for a method of running a Windows operating system on their device. This tutorial is not directed at any particular age group and can be completed with fairly little technical knowledge.
 
-### [Click here to begin the tutorial!](Tutorial.MD)
+### [Click here to begin the tutorial!](TUTORIAL.md)
