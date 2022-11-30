@@ -3,7 +3,7 @@
 
 ## Before you begin please ensure a couple things:
 - Refer to [this support page](https://support.apple.com/en-us/HT201468) and make sure you have a compatible device.
-- Use that [same support page](https://support.apple.com/en-us/HT201468) to help you figure out whether or not your device will require an external USB flash drive. If your Mac runs OS X El Capitan or later, then this will not be the case for you. 
+- Use that [same support page](https://support.apple.com/en-us/HT201468) to help you figure out whether or not your device will require an external USB flash drive for installation. If your Mac runs OS X El Capitan or later, then you will not requre an external USB flash drive. 
 - Install a full 64-bit version of the Windows operating system that you want to run. This file will need to be in a disk image format (ISO). 
 - Make sure you have at least 64GB of free space. However, it is recommended that you have at least 128GB to ensure the best experience. 
 - Check the Secure Boot setting of your device and ensure that it is set to "Full Security", which is the default setting. If you have changed this setting, then make sure you change it back by following along [here.](https://support.apple.com/en-us/HT208198)
