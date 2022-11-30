@@ -1,5 +1,5 @@
 # How to install Windows on your Mac device using Boot Camp Assistant
-(Return to Homepage)[README.md]
+[Return to Homepage](README.md)
 
 ## For this particular tutorial, I will be demonstrating
 
