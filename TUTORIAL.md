@@ -20,4 +20,4 @@ For the second step, you will select the Windows ISO image that you have install
 # Step 3: Windows Installation
 Once the Boot Camp Assistant installation is finished, you will now be able to run Windows on your device. In order to do this, restart your device and hold down the "option" key. Doing so will prompt you to select which operating system you would like to run. Click "Windows" and it will then walk you through the installation process, which is just like any other Windows PC.
 
-I hope this tutorial helped! If you are having any difficulty with this tutorial, please refer to [Apple Support]([https://support.apple.com/en-us/HT208198](https://support.apple.com/en-us/HT201468)).
+I hope this tutorial helped! If you are having any difficulty with this tutorial, please refer to [Apple Support](https://support.apple.com/en-us/HT201468).
