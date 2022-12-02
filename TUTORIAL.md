@@ -11,7 +11,7 @@
 - Lastly, ensure that your device operating system is completely up to date. This can be done by going to "System Preferences > Software Update" and installing the latest version of macOS. 
 
 
-# Step 1: Opem Boot Camp Assistant
+# Step 1: Open Boot Camp Assistant
 For the first step of this tutorial, open the Boot Camp Assistant application. This is found by going to "Finder > Applications > Utilities > Boot Camp Assistant". Read the Introduction message that is shown, then click "Continue". 
 
 # Step 2: Partition Your Drive
